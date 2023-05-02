@@ -24,4 +24,4 @@ LoanpyDataHub datasets are licensed under the [CC BY 4.0 License](https://creati
 
 ## Contact
 
-For any questions or suggestions, please feel free to reach out to us via [email](mailto:viktor_martinovic@$removethis$eva.mpg.de).
+For any questions or suggestions, please feel free to reach out to us via [email](mailto:viktor_martinovic@$removethis$eva.mpg.de) or [Twitter](https://twitter.com/martino_vik).
